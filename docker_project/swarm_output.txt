@@ -1,0 +1,2 @@
+ID             NAME                    MODE         REPLICAS   IMAGE             PORTS
+kgee0boldz0a   my_stack_my-container   replicated   0/1        grandhvh:latest   *:8080->80/tcp
